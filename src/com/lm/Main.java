@@ -1,6 +1,6 @@
 package com.lm;
 
-public class Main
+public class Main {
         // Created by Laura Macia: April 2018
         // Udemy Complete Java Masterclass with Tim Buchalka
         // Answer to Challenge: Object Oriented Programing Master Challenge Exercise
